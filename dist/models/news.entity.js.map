@@ -1,0 +1,1 @@
+{"version":3,"file":"news.entity.js","sourceRoot":"","sources":["../../src/models/news.entity.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+DAA4D;AAKrD,IAAM,IAAI,kBAAV,MAAM,IAAK,SAAQ,4BAAK;CAS9B,CAAA;AAPC;IADC,6BAAM;;mCACO;AAGd;IADC,6BAAM;;kCACM;AAGb;IADC,6BAAM;;uCACW;eARP,IAAI;IAHhB,IAAA,4BAAK,EAAC;QACL,SAAS,EAAE,MAAM;KAClB,CAAC;GACW,IAAI,CAShB"}
